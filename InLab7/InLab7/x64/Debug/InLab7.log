@@ -1,0 +1,5 @@
+﻿  InLab7.cpp
+  List.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\InLab\InLab7\List.cpp(101,13): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  InLab7.vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\InLab\InLab7\x64\Debug\InLab7.exe
