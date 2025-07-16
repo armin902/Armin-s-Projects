@@ -1,0 +1,11 @@
+﻿  LabProj3.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj3\LabProj3.h(6,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LabProj3.cpp')
+  
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj3\LabProj3.h(7,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LabProj3.cpp')
+  
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj3\LabProj3.h(36,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LabProj3.cpp')
+  
+  LabProj3.vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj3\x64\Debug\LabProj3.exe
