@@ -1,0 +1,5 @@
+﻿  reverse.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Lab\Lab11\reverse.cpp(55,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Lab\Lab11\reverse.cpp(84,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Lab\Lab11\reverse.cpp(79,1): warning C4715: 'is_palindrome': not all control paths return a value
+  Lab11.vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Lab\Lab11\x64\Debug\Lab11.exe
