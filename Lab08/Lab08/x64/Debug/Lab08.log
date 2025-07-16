@@ -1,0 +1,3 @@
+﻿  hospitalCharges.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Lab\Lab08\hospitalCharges.cpp(87,1): warning C4715: 'getPatientType': not all control paths return a value
+  Lab08.vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Lab\Lab08\x64\Debug\Lab08.exe
