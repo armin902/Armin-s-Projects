@@ -1,0 +1,4 @@
+﻿  BalletBox.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW09 (Voting)\BalletBox.cpp(122,1): warning C4715: 'voteReceiver': not all control paths return a value
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW09 (Voting)\BalletBox.cpp(164,1): warning C4715: 'voteResult': not all control paths return a value
+  HW09 (Voting).vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW09 (Voting)\x64\Debug\HW09 (Voting).exe
