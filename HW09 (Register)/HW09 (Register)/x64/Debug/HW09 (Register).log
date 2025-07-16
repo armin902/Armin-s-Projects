@@ -1,0 +1,4 @@
+﻿  CashRegister.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW09 (Register)\CashRegister.cpp(67,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW09 (Register)\CashRegister.cpp(67,17): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  HW09 (Register).vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW09 (Register)\x64\Debug\HW09 (Register).exe

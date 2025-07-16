@@ -1,0 +1,3 @@
+﻿  bankloan.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW07\bankloan.cpp(145,1): warning C4715: 'decideLoan': not all control paths return a value
+  HW07.vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 121 Lab\Homework\HW07\x64\Debug\HW07.exe
