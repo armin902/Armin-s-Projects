@@ -1,2 +1,2 @@
 # Armin-s-Projects
-This repository contains all of the homework/lab assignment for CMPSC 122: Intermediate Programming with C++
+This repository contains all of the lab assignments for CMPSC 122: Intermediate Programming with C++
