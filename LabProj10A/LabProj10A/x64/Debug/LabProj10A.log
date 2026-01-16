@@ -1,0 +1,5 @@
+﻿  LabProj10A.cpp
+  timer.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj10A\LabProj10A.cpp(63,38): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  LabProj10A.vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj10A\x64\Debug\LabProj10A.exe

@@ -1,0 +1,3 @@
+﻿  mystring2.cpp
+C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj2\LabProj7\mystring2.cpp(18,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LabProj7.vcxproj -> C:\Users\armin\OneDrive - The Pennsylvania State University\CMPSC 122 Lab\LabProj\LabProj2\LabProj7\x64\Debug\LabProj7.exe

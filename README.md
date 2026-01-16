@@ -1,2 +1,4 @@
 # Armin-s-Projects
-This repository contains all of the projects I am currently working on or have done in college.
+This repository contains all of the homework assignments for CMPSC 122: Intermediate Programming
+
+** All applications can viewed in the .cpp and .h files **
